@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "postPhoto": "https://i.postimg.cc/J0SMkx3z/Rectangle-5.png",
+        "categoryImage": "https://i.postimg.cc/Jh30CfNc/Article.png",
+        "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+        "description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "authorImage": "https://i.postimg.cc/BvfbySKn/Rectangle-3-2.png",
+        "authorName": "Sarthak Kamra",
+        "views": "1.4k"
+    },
+    {
+        "id": 2,
+        "postPhoto": "https://i.postimg.cc/NfrgchY9/Rectangle-5-2x.png",
+        "categoryImage": "https://i.postimg.cc/YqSdGkj0/Education.png",
+        "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+        "description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "authorImage": "https://i.postimg.cc/Y9p9rd8c/Rectangle-3-3.png",
+        "authorName": "Sarah West",
+        "views": "1.4k"
+    },
+    {
+        "id": 3,
+        "postPhoto": "https://i.postimg.cc/T2sRF28v/Rectangle-5-1.png",
+        "categoryImage": "https://i.postimg.cc/xj5s1qfB/Meetup.png",
+        "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+        "authorImage": "https://i.postimg.cc/qv3gjhgF/Rectangle-3-4.png",
+        "authorName": "Ronal Jones",
+        "views": "1.4k"
+    },
+    {
+        "id": 4,
+        "categoryImage": "https://i.postimg.cc/qq7MHgw2/Job.png",
+        "title": "Software Developer",
+        "authorImage": "https://i.postimg.cc/tCKZWtDf/Rectangle-3-5.png",
+        "authorName": "Joseph Gray",
+        "views": "1.4k"
+    }
+]
